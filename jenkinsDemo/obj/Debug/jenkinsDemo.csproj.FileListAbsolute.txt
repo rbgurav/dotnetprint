@@ -1,0 +1,6 @@
+c:\users\rgurav\documents\visual studio 2015\Projects\jenkinsDemo\jenkinsDemo\bin\Debug\jenkinsDemo.exe.config
+c:\users\rgurav\documents\visual studio 2015\Projects\jenkinsDemo\jenkinsDemo\bin\Debug\jenkinsDemo.exe
+c:\users\rgurav\documents\visual studio 2015\Projects\jenkinsDemo\jenkinsDemo\bin\Debug\jenkinsDemo.pdb
+c:\users\rgurav\documents\visual studio 2015\Projects\jenkinsDemo\jenkinsDemo\obj\Debug\jenkinsDemo.csprojResolveAssemblyReference.cache
+c:\users\rgurav\documents\visual studio 2015\Projects\jenkinsDemo\jenkinsDemo\obj\Debug\jenkinsDemo.exe
+c:\users\rgurav\documents\visual studio 2015\Projects\jenkinsDemo\jenkinsDemo\obj\Debug\jenkinsDemo.pdb
